@@ -1,12 +1,12 @@
 export const WorkData = [
   {
-    company: "Company 1",
+    company: "Vivacom",
     designation: "Software Engineer",
-    dateJoining: "02-02-2000",
+    dateJoining: "02-2021",
     dateEnd: "Present",
     companyLogo:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png",
-    work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+      "https://www.vivacom.bg/web/files/resources/1/documents/Vivacom_rebranding_2021_logo_negative.png",
+    work: "Lorem ipsum",
   },
   {
     company: "Company 2",
@@ -15,6 +15,6 @@ export const WorkData = [
     dateEnd: "Present",
     companyLogo:
       "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
-    work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+    work: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
   },
 ];
